@@ -20,7 +20,7 @@ public class FromCommandIdAttribute : Attribute, IModelNameProvider, IBinderType
 
 ```csharp
 public async Task<IActionResult> Post(
-            [FromCommandId] Guid? commandId,
+            [FromCommandId] Guid commandId,
             [FromBody] ...,
             CancellationToken cancellationToken)
 {

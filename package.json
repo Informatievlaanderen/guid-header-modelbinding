@@ -1,6 +1,6 @@
 {
   "name": "guid-header-modelbinding",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "An MVC ModelBinder for GUID type or GUID as string, which also looks in the header.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",

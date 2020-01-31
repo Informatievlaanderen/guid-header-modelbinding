@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.1.0...v2.2.0) (2020-01-31)
+
+
+### Features
+
+* upgrade netcoreapp31 and dependencies ([13bfd2c](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/13bfd2cce98539270088a2bedd1fb6fb3a652b4e))
+
 # [2.1.0](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.0.0...v2.1.0) (2019-12-15)
 
 

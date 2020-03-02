@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.0...v2.2.1) (2020-03-02)
+
+
+### Bug Fixes
+
+* bump netcore to 3.1.2 ([ea478e9](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/ea478e920bf9009f497f61458c4254c0e5021031))
+
 # [2.2.0](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.1.0...v2.2.0) (2020-01-31)
 
 

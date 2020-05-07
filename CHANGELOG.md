@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.1...v2.2.2) (2020-05-07)
+
+
+### Bug Fixes
+
+* move to GH-actions ([e5f5bcc](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/e5f5bcccb7f9e22c267ac0b1d570091d7839d3ab))
+
 ## [2.2.1](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.0...v2.2.1) (2020-03-02)
 
 

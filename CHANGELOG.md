@@ -1,3 +1,10 @@
+## [2.2.4](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.3...v2.2.4) (2020-06-18)
+
+
+### Bug Fixes
+
+* move to 3.1.5 ([58873e8](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/58873e86a012293012c3ecfa074711bc1d8fe427))
+
 ## [2.2.3](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.2...v2.2.3) (2020-05-18)
 
 

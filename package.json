@@ -1,6 +1,6 @@
 {
   "name": "guid-header-modelbinding",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "An MVC ModelBinder for GUID type or GUID as string, which also looks in the header.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
@@ -48,7 +48,10 @@
     ]
   },
   "release": {
-    "branches": [ "master", "main" ],
+    "branches": [
+      "master",
+      "main"
+    ],
     "verifyConditions": [
       "@semantic-release/changelog",
       "@semantic-release/git",

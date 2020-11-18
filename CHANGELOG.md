@@ -1,3 +1,10 @@
+## [2.2.7](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.6...v2.2.7) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([2cf1954](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/2cf195497c16fe16888401e56550c5ccde0c9786))
+
 ## [2.2.6](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.5...v2.2.6) (2020-09-21)
 
 

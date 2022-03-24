@@ -15,8 +15,8 @@ licenseUrl https://opensource.org/licenses/MIT
 description An MVC ModelBinder for GUID type or GUID as string, which also looks in the header.
 
 dependencies
-  framework: net5.0
+  framework: net6.0
 
 files
-  bin\Release\net5.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.ModelBinding.GuidHeader.dll => lib\net5.0
-  bin\Release\net5.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.ModelBinding.GuidHeader.pdb => lib\net5.0
+  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.ModelBinding.GuidHeader.dll => lib\net6.0
+  bin\Release\net6.0\Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.ModelBinding.GuidHeader.pdb => lib\net6.0

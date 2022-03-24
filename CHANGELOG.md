@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.11...v3.0.0) (2022-03-24)
+
+
+### Features
+
+* move to dotnet 6.0.3 ([79049c0](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/79049c07ff66d2f919fe36bbb48c22ad2eb370e4))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [2.2.11](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v2.2.10...v2.2.11) (2021-05-28)
 
 

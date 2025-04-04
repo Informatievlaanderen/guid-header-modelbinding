@@ -11,15 +11,14 @@ namespace Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.ModelBinding.GuidHeader
             if (bindingContext.ModelType != typeof(Guid) && bindingContext.ModelType != typeof(Guid?))
                 return Task.CompletedTask;
 
-            if (!bindingContext.BindingSource.CanAcceptDataFrom(BindingSource.Header))
+            if (bindingContext.BindingSource is null || !bindingContext.BindingSource.CanAcceptDataFrom(BindingSource.Header))
                 return Task.CompletedTask;
 
             var headerName = bindingContext.ModelName;
 
-            if (!bindingContext.HttpContext.Request.Headers.ContainsKey(headerName))
+            if (!bindingContext.HttpContext.Request.Headers.TryGetValue(headerName, out var stringValue))
                 return Task.CompletedTask;
 
-            var stringValue = bindingContext.HttpContext.Request.Headers[headerName];
             bindingContext.ModelState.SetModelValue(bindingContext.ModelName, stringValue, stringValue);
 
             // Attempt to parse the guid

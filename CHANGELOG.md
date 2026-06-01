@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v5.0.0...v5.1.0) (2026-06-01)
+
+
+### Features
+
+* update packages ([83fa1b0](https://github.com/informatievlaanderen/guid-header-modelbinding/commit/83fa1b0e6d1740a9b617e7bba0872a541d7bca5a))
+
 # [5.0.0](https://github.com/informatievlaanderen/guid-header-modelbinding/compare/v4.0.0...v5.0.0) (2025-04-04)
 
 
